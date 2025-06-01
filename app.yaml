@@ -1,0 +1,7 @@
+name: starter-kit
+app_id: da_neGIvtaUr4Nl
+owner: test01
+package: '.'
+scaling:
+  mode: single_concurrency
+kind: wasmer.io/App.v0
